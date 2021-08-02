@@ -1,0 +1,7 @@
+I'm using intellij idea, so for my project, i just need to 
+change arugment in edit configuration, 
+for example >java HelloRunner 6
+it will pop up some sentences in terminal and user has to type
+in some name, then it will pop out hello messages.
+and if type in >java HelloRUnner or >java HelloRunner 0,
+an error message will be out in terminal
